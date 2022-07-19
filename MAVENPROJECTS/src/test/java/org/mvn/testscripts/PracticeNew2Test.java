@@ -10,7 +10,8 @@ public class PracticeNew2Test {
 	public void practiceNew2Test () {
 		
 		Reporter.log("learning maven");
-		
+		//hi how are you
+
 	}
 
 }
