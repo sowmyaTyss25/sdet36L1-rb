@@ -9,7 +9,7 @@ public class PracticeNew3Test {
 	public void practiceSet() {
 		
 		Reporter.log("hi good afternoon",true);
-		Reporter.log("bye to all");
+		
 	}
 	
 	
