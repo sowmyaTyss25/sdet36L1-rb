@@ -11,6 +11,8 @@ public class PracticeNew2Test {
 		
 		Reporter.log("learning maven");
 		//hi how are you
+		
+		//hi
 
 	}
 
