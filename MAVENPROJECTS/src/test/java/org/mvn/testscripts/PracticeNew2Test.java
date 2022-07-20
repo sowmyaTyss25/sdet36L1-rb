@@ -10,10 +10,17 @@ public class PracticeNew2Test {
 	public void practiceNew2Test () {
 		
 		Reporter.log("learning maven");
+		 Reporter.log("hello");
+		 Reporter.log("hi");
 		//hi how are you
-		
-		//hi
-
+		 Reporter.log("sowmya");
+		 Reporter.log("lunch time");
+		 Reporter.log("waiting for lunch again");
+		 Reporter.log("hi");
+         Reporter.log("hello");
+         Reporter.log("gd noon");
+         Reporter.log("gk");
+         
 	}
 
 }

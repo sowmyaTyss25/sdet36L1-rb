@@ -9,6 +9,12 @@ public class PracticeNew3Test {
 	public void practiceSet() {
 		
 		Reporter.log("hi good afternoon",true);
+		String BROWSER=System.getProperty("browser");
+		String URL=System.getProperty("url");
+				Reporter.log("----->browser is"+BROWSER+"----->url is "+URL);
+		
+		
+		
 		
 	}
 	
