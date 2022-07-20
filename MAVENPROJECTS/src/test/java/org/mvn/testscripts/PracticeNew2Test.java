@@ -12,7 +12,7 @@ public class PracticeNew2Test {
 		Reporter.log("learning maven");
 		 Reporter.log("hello");
 		 Reporter.log("hi");
-		//hi how are you sowmiya
+		//hi how are you sowmi
 		 Reporter.log("sowmya");
 		 Reporter.log("lunch time");
 		 Reporter.log("waiting for lunch again");
