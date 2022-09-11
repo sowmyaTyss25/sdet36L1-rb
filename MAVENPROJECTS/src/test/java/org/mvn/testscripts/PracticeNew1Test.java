@@ -17,7 +17,7 @@ public class PracticeNew1Test {
 		 String USERNAME=System.getProperty("username");
 		 String PASSWORD=System.getProperty("password");
 		 String BROWSER = System.getProperty("browser");
-		 //hi siva bye
+		 //hi siva bye 
 		 Reporter.log("TEST-->CLASS1");
 		 Reporter.log(BROWSER);
 		 Reporter.log(PASSWORD);
